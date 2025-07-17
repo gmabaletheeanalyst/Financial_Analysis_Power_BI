@@ -17,7 +17,7 @@ This credit card analysis reveals critical insights across our banking instituti
 **Revenue Momentum Confirms Portfolio Health**
 The sustained growth in transaction volume running totals validates our customer engagement strategies and indicates a healthy, expanding portfolio. This positive momentum positions us well for revenue forecasting and establishing ambitious yet achievable performance targets for the coming quarters.
 
-<img width="432" height="116" alt="2" src="https://github.com/user-attachments/assets/a58ea981-cd44-4421-9bb5-c8ca616e9096" />
+<img width="584" height="331" alt="1" src="https://github.com/user-attachments/assets/782b3dd5-1d63-464e-b2c2-c0dc4fd019a4" />
 
-
-  <img width="206" height="332" alt="1" src="https://github.com/user-attachments/assets/d35ffba3-fb57-4c11-8a9f-09ca7af365ff" />
+**Spending Patterns and Customer Engagement**
+Our 4-week moving average analysis demonstrates remarkable stability in customer spending behavior, providing us with a powerful tool to identify emerging trends before they become problematic. This consistency allows our risk management team to spot early warning signs of changing credit appetites or liquidity constraints, enabling proactive intervention strategies.
