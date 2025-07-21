@@ -19,5 +19,21 @@ The sustained growth in transaction volume running totals validates our customer
 
 <img width="584" height="331" alt="1" src="https://github.com/user-attachments/assets/782b3dd5-1d63-464e-b2c2-c0dc4fd019a4" />
 
+**Derived Calculations** 
+
+<img width="767" height="339" alt="1" src="https://github.com/user-attachments/assets/51acf490-0502-4838-95dc-d8e188b7260d" />
+
+
 **Spending Patterns and Customer Engagement**
 Our 4-week moving average analysis demonstrates remarkable stability in customer spending behavior, providing us with a powerful tool to identify emerging trends before they become problematic. This consistency allows our risk management team to spot early warning signs of changing credit appetites or liquidity constraints, enabling proactive intervention strategies.
+
+**Growth Metrics Reveal Strategic Opportunities**
+Month-over-month and week-over-week growth analysis has uncovered significant behavioral shifts that demand immediate investigation. These fluctuations present opportunities to understand campaign effectiveness, seasonal impacts, and potential customer churn indicators, allowing us to optimize our marketing investments and retention strategies.
+
+**Risk Management Requires Immediate Attention**
+Our analysis reveals concerning delinquency patterns with a substantial portion of our client base showing missed payments and escalating credit risk. This situation demands immediate implementation of proactive customer support programs and enhanced repayment assistance initiatives to protect our portfolio value.
+
+**Acquisition Cost Structure Needs Performance Alignment**
+Current customer acquisition costs appear standardized across our customer base regardless of individual transaction contributions, suggesting the need for performance-based acquisition benchmarks that align spending with projected customer lifetime value.
+
+
