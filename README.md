@@ -1,5 +1,5 @@
 # Financial_Analysis_Power_BI
-This repository contains credit card usage and financial metrics of a banking institution 
+This repository contains credit card usage and financial metrics of a banking institution using DAX Expressions
 
 **Project Background**
 
@@ -10,6 +10,7 @@ This project analyzes credit card usage and financial metrics for a banking inst
 This credit card analysis reveals critical insights across our banking institution, with over **18%** of clients showing high-risk utilization ratios above **80%** requiring immediate intervention. The analysis shows significant delinquency concerns with multiple clients showing missed payments, while approved loan customers receive **15%** higher credit limits than non-approved clients, indicating potential assessment bias. Analysis reveals dormant high-value accounts with **6+ months** of inactivity, inefficient customer acquisition costs where some segments show CAC nearly equal to customer lifetime value, and modest interest conversion rates despite substantial revolving balances. Premium cardholders demonstrate higher satisfaction scores compared to Basic card users, while sustained transaction growth indicates healthy portfolio momentum. The findings provide actionable recommendations for risk management, revenue optimization, and data-driven credit policies to strengthen financial performance and customer retention.
 
 **Data Structure Overview**
+<img width="1191" height="491" alt="1" src="https://github.com/user-attachments/assets/efa4978c-e320-4ddd-8d47-14b4df2a3180" />
 
 
 **Insights deep-dive**
@@ -19,9 +20,10 @@ The sustained growth in transaction volume running totals validates our customer
 
 <img width="584" height="331" alt="1" src="https://github.com/user-attachments/assets/782b3dd5-1d63-464e-b2c2-c0dc4fd019a4" />
 
-**Derived Calculations** 
+**Derived Calculations using DAX Expressions** 
 
-<img width="767" height="339" alt="1" src="https://github.com/user-attachments/assets/51acf490-0502-4838-95dc-d8e188b7260d" />
+<img width="755" height="351" alt="1" src="https://github.com/user-attachments/assets/6a5d6258-93f8-4da6-99ac-a8536f056315" />
+
 
 
 **Spending Patterns and Customer Engagement**
