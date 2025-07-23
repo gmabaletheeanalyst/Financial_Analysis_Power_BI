@@ -9,6 +9,15 @@ This project analyzes credit card usage and financial metrics for a banking inst
 
 This credit card analysis reveals critical insights across our banking institution, with over **18%** of clients showing high-risk utilization ratios above **80%** requiring immediate intervention. The analysis shows significant delinquency concerns with multiple clients showing missed payments, while approved loan customers receive **15%** higher credit limits than non-approved clients, indicating potential assessment bias. Analysis reveals dormant high-value accounts with **6+ months** of inactivity, inefficient customer acquisition costs where some segments show CAC nearly equal to customer lifetime value, and modest interest conversion rates despite substantial revolving balances. Premium cardholders demonstrate higher satisfaction scores compared to Basic card users, while sustained transaction growth indicates healthy portfolio momentum. The findings provide actionable recommendations for risk management, revenue optimization, and data-driven credit policies to strengthen financial performance and customer retention.
 
+
+<img width="895" height="505" alt="Financial Analysis 1" src="https://github.com/user-attachments/assets/f5685042-f94e-4f24-85b4-bd755ec53941" />
+
+
+
+<img width="765" height="434" alt="Financial Analysis Using Power BI 2" src="https://github.com/user-attachments/assets/c96f6e52-6a87-4beb-ac5e-db464e208d1a" />
+
+
+
 **Data Structure Overview**
 <img width="1191" height="491" alt="1" src="https://github.com/user-attachments/assets/efa4978c-e320-4ddd-8d47-14b4df2a3180" />
 
@@ -20,11 +29,6 @@ The sustained growth in transaction volume running totals validates our customer
 
 <img width="584" height="331" alt="1" src="https://github.com/user-attachments/assets/782b3dd5-1d63-464e-b2c2-c0dc4fd019a4" />
 
-**Derived Calculations using DAX Expressions** 
-
-<img width="755" height="351" alt="1" src="https://github.com/user-attachments/assets/6a5d6258-93f8-4da6-99ac-a8536f056315" />
-
-
 
 **Spending Patterns and Customer Engagement**
 Our 4-week moving average analysis demonstrates remarkable stability in customer spending behavior, providing us with a powerful tool to identify emerging trends before they become problematic. This consistency allows our risk management team to spot early warning signs of changing credit appetites or liquidity constraints, enabling proactive intervention strategies.
@@ -35,7 +39,6 @@ Month-over-month and week-over-week growth analysis has uncovered significant be
 **Risk Management Requires Immediate Attention**
 Our analysis reveals concerning delinquency patterns with a substantial portion of our client base showing missed payments and escalating credit risk. This situation demands immediate implementation of proactive customer support programs and enhanced repayment assistance initiatives to protect our portfolio value.
 
-**Acquisition Cost Structure Needs Performance Alignment**
-Current customer acquisition costs appear standardized across our customer base regardless of individual transaction contributions, suggesting the need for performance-based acquisition benchmarks that align spending with projected customer lifetime value.
-
+**Credit Limit Allocation Requires Risk-Based Differentiation**
+Current credit limit distribution shows minimal variation between loan and non-loan customers, with averages of $8.53K and $8.65K respectively, indicating the need for risk-adjusted credit assessment frameworks that align credit exposure with individual borrowing behavior and repayment capacity profiles.
 
